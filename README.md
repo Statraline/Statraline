@@ -25,7 +25,7 @@
 ### 🚀 Projets 42 en cours / terminés
 | Projet | Description | Langage | Etat |
 | :--- | :--- | :--- | :--- |
-| **Libft** | Ma propre bibliothèque de fonctions standard C | C |✅ 125% | 
+| [**Libft**](https://github.com/Statraline/42-Libft) | Ma propre bibliothèque de fonctions standard C | C |✅ 125% | 
 | **get_next_line** | Lire une ligne depuis un descripteur de fichier | C | en cours |
 | **ft_printf** | Recoder la fonction printf | C |en cours |
 | **Born2beroot** | Administration système et virtualisation | Bash | en cours |

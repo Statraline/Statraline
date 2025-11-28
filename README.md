@@ -1,16 +1,33 @@
-## Hi there 👋
+### Salut 👋, moi c'est Statraline !
 
-<!--
-**Statraline/Statraline** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://www.linkedin.com/in/sabrina-richard-25b046221/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="srichard@student.42.fr">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
+### 👨‍💻 À propos de moi
 
-Here are some ideas to get you started:
+- 🔭 Je travaille actuellement sur les projets du **Common Core de 42**.
+- 🌱 J'apprends en profondeur le **C**, la **gestion de la mémoire** et les **algorithmes**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Mes compétences
+* **Langages :** C, C++, Shell, Python
+* **Outils :** Git, Docker, Valgrind, VIM
+* **Système :** Linux / Unix
+
+---
+
+### 🚀 Projets 42 en cours / terminés
+| Projet | Description | Langage | Etat |
+| :--- | :--- | :--- | :--- |
+| **Libft** | Ma propre bibliothèque de fonctions standard C | C |✅ 125% | 
+| **get_next_line** | Lire une ligne depuis un descripteur de fichier | C | en cours |
+| **ft_printf** | Recoder la fonction printf | C |en cours |
+| **Born2beroot** | Administration système et virtualisation | Bash | en cours |
+
+---

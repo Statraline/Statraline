@@ -27,7 +27,7 @@
 | :--- | :--- | :--- | :--- |
 | [**Libft**](https://github.com/Statraline/42-Libft) | Ma propre bibliothèque de fonctions standard C | C |✅ 122% | 
 | **get_next_line** | Lire une ligne depuis un descripteur de fichier | C | en cours |
-| **ft_printf** | Recoder la fonction printf | C | ✅ 100% |
+|[**ft_printf**](https://github.com/Statraline/42-ft_printf)| Recoder la fonction printf | C | ✅ 100% |
 | **Born2beroot** | Administration système et virtualisation | Bash | en cours |
 
 ---

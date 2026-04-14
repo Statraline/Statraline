@@ -29,8 +29,8 @@
 |[**get_next_line**](https://github.com/Statraline/42-get_next_line)| Lire une ligne depuis un descripteur de fichier | C |✅ 125%|
 |[**ft_printf**](https://github.com/Statraline/42-ft_printf)| Recoder la fonction printf | C |✅ 100% |
 |[**Born2beroot**](https://github.com/Statraline/42-Born2beroot) | Administration système et virtualisation | Bash/Shell |✅ 125% |
-| **push_swap** | Algorithme de tri optimisé sur piles. | C | en cours |
-| **so_long** | Petit jeu 2D (textures, événements) avec la MiniLibX. | C | en cours |
-| **minitalk** | Communication Client/Serveur via signaux UNIX. | C | en cours |
+| **push_swap** | Algorithme de tri optimisé sur piles. | C | ✅ 84% |
+| **so_long** | Petit jeu 2D (textures, événements) avec la MiniLibX. | C | ✅ 100% |
+| **minitalk** | Communication Client/Serveur via signaux UNIX. | C | ✅ 125% |
 
 ---

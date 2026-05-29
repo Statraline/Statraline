@@ -32,5 +32,6 @@
 | [**push_swap**](https://github.com/Statraline/42-Push_swap) | Algorithme de tri optimisé sur piles. | C | ✅ 84% |
 | [**so_long**](https://github.com/Statraline/42-so_long) | Petit jeu 2D (textures, événements) avec la MiniLibX. | C | ✅ 100% |
 | [**minitalk**](https://github.com/Statraline/42-minitalk) | Communication Client/Serveur via signaux UNIX. | C | ✅ 125% |
+| [**minishell**](https://github.com/Statraline/42-minishell) | Création d'un interpréteur de commandes (Parsing, Processus, Signaux). | C | ✅ 125%|
 
 ---
